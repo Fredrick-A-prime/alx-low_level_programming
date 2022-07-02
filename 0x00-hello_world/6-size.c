@@ -11,11 +11,11 @@ char c;
 int i;
 long int il;
 long long int ill;
-float f;
+ize.cloat f;
 printf("Size of an int: %d byte(s)\n", (unsigned long)sizeof(i));
 printf("Size of a long int: %d byte(s)\n", (unsigned long)sizeof(il));
 printf("Size of a long long int: %d byte(s)\n", (unsigned long)sizeof(ill));
 printf("Size of a float: %d byte(s)\n", (unsigned long)sizeof(f));
-printf("Size of a float: %d byte(s)\n", (unsigned long)sizeof(f));
+printf("Size of a char: %d byte(s)\n", (unsigned long)sizeof(c));
 return (0);
 }

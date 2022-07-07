@@ -4,9 +4,9 @@
  * mul -> multiplying 2 numbers
  * @a: integer param 1
  * @b: integer param 2
- * Return: 0(Success)
+ * Return: success and integer
  */
 int mul(int a, int b)
 {
-	return (a * b)
+	return (a * b);
 }

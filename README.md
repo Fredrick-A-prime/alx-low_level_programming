@@ -1,1 +1,1 @@
-This alx low level programming for C functions, nested loops
+This is a readme file for alx projects

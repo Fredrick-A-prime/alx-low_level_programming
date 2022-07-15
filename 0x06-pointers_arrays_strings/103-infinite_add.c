@@ -34,6 +34,7 @@ void int_to_string(int n)
 {
 	int divisor = 1, i, resp;
 
+
 	for (i = 0; n / divisor > 9; i++)
 	{
 		divisor *= 10;
@@ -55,6 +56,7 @@ void int_to_string(int n)
 	char *infinite_add(char *n1, char *n2, char *r, int size_r)
 	{
 		int sum, a, b;
+
 		a = _atoi(n1);
 		b = _atoi(n2);
 
